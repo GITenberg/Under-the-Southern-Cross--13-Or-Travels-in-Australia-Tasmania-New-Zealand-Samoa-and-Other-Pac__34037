@@ -1,0 +1,35 @@
+_repo: Under-the-Southern-Cross--13-Or-Travels-in-Australia-Tasmania-New-Zealand-Samoa-and-Other-Pac__34037
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ballou, Maturin Murray
+    aliases:
+    - Ballou, M. M. (Maturin Murray)
+    - Ballou, Maturin M. (Maturin Murray)
+    - Murray, Lieutenant
+    - Forester, Frank
+    birthdate: 1820
+    deathdate: 1895
+    gutenberg_agent_id: '1543'
+    url: http://www.gutenberg.org/2009/agents/1543
+    wikipedia: http://en.wikipedia.org/wiki/Maturin_Murray_Ballou
+description: ''
+gutenberg_issued: '2010-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34037'
+  lccn: 04029579
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DU'
+- !lcsh 'Oceania -- Description and travel'
+- !lcsh 'Australia -- Description and travel'
+title: "Under the Southern Cross\r\nOr Travels in Australia, Tasmania, New Zealand,\
+  \ Samoa, and Other Pacific Islands"
+url: http://www.gutenberg.org/ebooks/34037
