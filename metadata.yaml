@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1543
     wikipedia: http://en.wikipedia.org/wiki/Maturin_Murray_Ballou
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34037#Under-the-Southern-Cross--13-Or-Travels-in-Australia-Tasmania-New-Zealand-Samoa-and-Other-Pac_
 gutenberg_issued: '2010-10-05'
 gutenberg_type: Text
 identifiers:
